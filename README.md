@@ -7,9 +7,11 @@ Ron C. Chiang (rclc@gwu.edu),
 H. Howie Huang (howie@gwu.edu).
 
 Department of Electrical and Computer Engineering
+
 George Washington University
 
 This work is in part supported by the National Science Foundation.
+
 All rights reserved.
 
 How to build it?
